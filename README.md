@@ -19,4 +19,4 @@ Styling: CSS/SCSS, Bootstrap
 API Integration: Axios for handling HTTP requests
 Build Tool: Webpack, Babel
 Testing: Jest, React Testing Library
-Authentication: JWT-based auth with secure login and registration
+Authentication: JWT-based auth with secure login and registration.
