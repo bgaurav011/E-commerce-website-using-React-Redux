@@ -12,6 +12,8 @@ Product Search: Quick and intuitive search functionality to find products based 
 Responsive Design: Fully responsive and optimized for mobile, tablet, and desktop devices.
 REST API Integration: Fetch product and user data from a backend API, with support for pagination, sorting, and filtering.
 Optimized Performance: Leveraging React's virtual DOM and Redux's efficient state updates, resulting in a fast and smooth user interface.
+
+
 🛠 Technologies
 Frontend: React, Redux, React Router
 State Management: Redux, Redux Toolkit
